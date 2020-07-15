@@ -1,0 +1,16 @@
+body{
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: darkcyan;
+  max-width: 1200px;
+}
+
+p{
+  font-size: 40px;
+}
+
+.main-head{
+max-width: 500px;
+background-color: firebrick;
+margin-bottom:0px ;
+border-radius: 50%;
+}
